@@ -32,6 +32,7 @@ namespace Wk7Ex3
                 {
                     Console.WriteLine($"Name: {student.Name}, Grade: {student.Grade}");
                 }
+                Console.ReadLine();
             }
             else
             {
